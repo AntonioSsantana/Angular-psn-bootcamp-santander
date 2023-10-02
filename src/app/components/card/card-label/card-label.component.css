@@ -1,0 +1,18 @@
+.card--label__container {
+  position: absolute;
+  bottom: 5vw;
+  right: 0;
+}
+
+.label__container--content {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.92);
+  
+  & span {
+    color: white;
+    padding: 0.4vw;
+    font-weight: lighter;
+    opacity: 0.9;
+  }
+}
