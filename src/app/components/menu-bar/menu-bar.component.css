@@ -1,7 +1,8 @@
 .container__header {
   display: flex;
   flex-direction: row;
-  position: fixed;
+  position: sticky;
+  top: 0;
   z-index: 999;
   background-color: #ffffff;
   width: 100%;
