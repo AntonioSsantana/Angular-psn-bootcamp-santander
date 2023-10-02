@@ -1,0 +1,21 @@
+.container__card {
+  position: relative;
+  overflow: hidden;
+  width: 15vw;
+  height: 18vw;
+  margin: 2vw;
+  
+  & a {
+    & img {
+      width: 100%;
+      height: 100%;
+      transition: filter 0.3s ease-out;
+      transition: transform 0.9s;
+      
+      &:hover {
+        filter: brightness(0.9);
+        transform: scale(1.05);
+      }
+    }
+  }
+}

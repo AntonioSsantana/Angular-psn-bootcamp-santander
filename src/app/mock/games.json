@@ -1,0 +1,14 @@
+{
+  "games": [ 
+    {
+      "name": "Battlefield 5",
+      "url": "https://image.api.playstation.com/cdn/UP0006/CUSA08724_00/knyiQNrzbp6tEe8t04AYRhhJUF5wLIGO.png?w=440&thumb=false",
+      "price": "198,99"
+    },
+    {
+      "name": "God of War Ragnarok",
+      "url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png?w=230&thumb=false",
+      "price": "299,90"
+    }
+  ]
+}
