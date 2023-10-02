@@ -1,4 +1,5 @@
 <main class="container__home">
-  <app-card gameLabel="Digital"></app-card>
-  <app-card gameLabel="Exclusive"></app-card>
+  <app-card *ngFor="let i of gamesArray" gameLabel={{i.content}} gameName={{i.name}} gameConsole={{i.console}}
+    gamePrice={{i.price}} gameUrl={{i.url}}>
+  </app-card>
 </main>

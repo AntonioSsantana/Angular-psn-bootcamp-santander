@@ -1,8 +1,8 @@
 .container__card {
   position: relative;
   overflow: hidden;
-  width: 25vw;
-  height: 28vw;
+  width: 20vw;
+  height: 22vw;
   margin: 2vw;
 
   & a {
