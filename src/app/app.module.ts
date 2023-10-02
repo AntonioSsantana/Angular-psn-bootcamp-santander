@@ -13,7 +13,7 @@ import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
 @NgModule({
   declarations: [
     AppComponent,
-    MenuBarComponent
+    MenuBarComponent,
   ],
   imports: [
     BrowserModule,
